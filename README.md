@@ -51,6 +51,9 @@
       When testing detailed interactions or visual hierarchy
       When presenting to clients or stakeholders who need to see something more refined
 
+# High-Fidelity Wireframe
+    The wirefram figma file attached in this course is a high-fidelity wireframe because it is very detailed, and close to the final version which will be developed which includes specific layouts and design elements with deatiled colors used and also fonts used.
+    
   # Popular Wireframing Tools
     There are a lot of popular wireframing tools out there which includes Figma, Adobe XD, Balsamiq, Sketch, Wireframe.cc Lucidchart, Ux Pin and a lot more. Amongst all these wireframing tools listed above, FIgma is what i'll be working with as it is the most recommeneded tool for wireframing due toits robust features.
   ### Figma:
@@ -104,4 +107,18 @@
        It's much cheaper and faster to revise a wireframe than change working code.
       Fewer late-stage changes mean smoother sprints and more predictable timelines.
 
-      
+## Wireframes play a crucial guiding role in the design process and serve as a communication bridge among team members. Here’s a few way's in which wireframes guide design & facilitate communication:
+
+### In guiding the design process:
+    Wireframes:
+    Serve as a visual blueprint for layout and user flow.
+    Focus on structure and functionality before visual design.
+    Help identify usability issues early.
+
+### In facilitating communication:
+    Wireframes:
+    Provide a shared visual language for designers, developers, and stakeholders.
+    Encourage early feedback and faster revisions.
+    Bridge the gap between design and development.
+    Improve collaboration, especially in agile teams.
+
