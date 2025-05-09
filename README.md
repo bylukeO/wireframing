@@ -122,3 +122,35 @@
     Bridge the gap between design and development.
     Improve collaboration, especially in agile teams.
 
+## Scenario: E-Commerce Checkout Flow for a Fashion Retail App
+    A UX team was tasked with designing a mobile app for a fashion retail brand. During the wireframing phase, they created low-fidelity wireframes for the product page and checkout process.
+### Usability Issue Identified:
+### When reviewing the checkout wireframes with stakeholders and users:
+
+    Testers were confused about where to apply promo codes.
+
+    The “Continue as Guest” option was buried under the sign-in form.
+
+    The order summary wasn’t visible until the final confirmation screen.
+### These issues created uncertainty in the user journey and risked high cart abandonment.
+### How It Was Resolved:
+
+    Before moving to high-fidelity design or development:
+
+    The promo code field was moved higher up and labeled clearly.
+
+    A clear “Checkout as Guest” button was placed next to the sign-in button.
+
+    The order summary was made persistent—visible throughout the checkout flow.
+
+### Stakeholders approved these updates directly in the wireframing tool (Figma), which saved time and effort.
+
+### Impact on the Final Product:
+
+    User testing of the updated wireframes showed improved task completion and satisfaction.
+
+    Developers built a smoother checkout experience without needing major revisions later.
+
+    The app launch saw a 15% drop in cart abandonment and positive user reviews about ease of checkout.
+
+This scenario shows how wireframing exposed critical usability issues early, allowing the team to resolve them before costly design or code work began. It reinforces that wireframes are not just visual aids, they’re essential tools for crafting intuitive, user-friendly experiences.
